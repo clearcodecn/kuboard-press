@@ -2,6 +2,11 @@
 layout: SpecialHomePage
 ---
 
+
+### NOTE  
+
+INSTALL THIS VERSION IN MY HOME SERVER ,PLEASE useit to upgrade.
+
 # Kuboard简介
 
 Kuboard 是一款基于 Kubernetes 的微服务管理界面。目的是帮助用户快速在 Kubernetes 上落地微服务。在 [https://kuboard.cn](https://kuboard.cn) 上，您可以获得：
